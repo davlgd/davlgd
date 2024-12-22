@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate tech guy for 20+ years with a kee
 - **DevOps:** ![Clever Cloud](https://img.shields.io/badge/-CleverCloud-black?style=flat&logo=clevercloud) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=github-actions)
 - **Tools:** ![Bruno](https://img.shields.io/badge/-Bruno-black?style=flat&logo=bruno) ![Nano](https://img.shields.io/badge/-Nano-black?style=flat&logo=nano) ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=vs-code) ![Zed](https://img.shields.io/badge/-Zed-black?style=flat&logo=zed)
 
-## 📈 GitHub StatsBun
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davlgd&show_icons=true&theme=radical)
 
