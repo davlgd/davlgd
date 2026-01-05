@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm a passionate tech guy for 20+ years with a kee
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davlgd&show_icons=true&theme=radical)
+![GitHub Stats](https://app-d755acd8-5d78-4fc4-8e88-5d3aa179d453.cleverapps.io/api?username=davlgd&show_icons=true&theme=radical)
 
 ## 🌟 Top Repositories
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=davlgd&repo=tVeb&theme=radical)](https://github.com/davlgd/tVeb)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=davlgd&repo=JarVis&theme=radical)](https://github.com/davlgd/JarVis)
+[![Repo Name](https://app-d755acd8-5d78-4fc4-8e88-5d3aa179d453.cleverapps.io/api/pin/?username=davlgd&repo=tVeb&theme=radical)](https://github.com/davlgd/tVeb)
+[![Repo Name](https://app-d755acd8-5d78-4fc4-8e88-5d3aa179d453.cleverapps.io/api/pin/?username=davlgd&repo=JarVis&theme=radical)](https://github.com/davlgd/JarVis)
 
 ## 📝 Recent Blog Posts
 
